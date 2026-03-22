@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\controllers\\v1\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\controllers\\v1\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\queries\\getbyid\\getbyidproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\queries\\getbyid\\getbyidproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.infrastructure\\queries\\products\\getbyid\\getbyidproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|solutionrelative:soltestbackend.infrastructure\\queries\\products\\getbyid\\getbyidproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\contracts\\v1\\product\\updatepricecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\contracts\\v1\\product\\updatepricecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|solutionrelative:soltestbackend.infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\commands\\updateprice\\updatepriceproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\commands\\updateprice\\updatepriceproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\commands\\updateprice\\updatepriceproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\commands\\updateprice\\updatepriceproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\shared\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\shared\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.infrastructure\\queries\\currencies\\getallcurrencieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|solutionrelative:soltestbackend.infrastructure\\queries\\currencies\\getallcurrencieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.infrastructure\\queries\\products\\getbyfilters\\getbyfilterproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|solutionrelative:soltestbackend.infrastructure\\queries\\products\\getbyfilters\\getbyfilterproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\currencies\\queries\\getall\\getallcurrenciesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\currencies\\queries\\getall\\getallcurrenciesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\queries\\getbyfilter\\getbyfilterproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\queries\\getbyfilter\\getbyfilterproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\contracts\\v1\\product\\getbyfilltercontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\contracts\\v1\\product\\getbyfilltercontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\contracts\\v1\\currency\\createcurrencycontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\contracts\\v1\\currency\\createcurrencycontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\contracts\\v1\\product\\createproductcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\contracts\\v1\\product\\createproductcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\products\\valueobjects\\pricevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\products\\valueobjects\\pricevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\products\\errors\\producterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\products\\errors\\producterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\currencies\\commands\\create\\createcurrencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\currencies\\commands\\create\\createcurrencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\commands\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\commands\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\products\\commands\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\products\\commands\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\currencies\\errors\\currencyerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\currencies\\errors\\currencyerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.infrastructure\\persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7E37E-0A3B-874F-2B08-907294EDB6B4}|SolTestBackend.Infrastructure\\SolTestBackend.Infrastructure.csproj|solutionrelative:soltestbackend.infrastructure\\persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\products\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\products\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\users\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\users\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.domain\\currencies\\repositories\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7794E1C2-0396-6CD3-74D0-FF85DE6F5E84}|SolTestBackend.Domain\\SolTestBackend.Domain.csproj|solutionrelative:soltestbackend.domain\\currencies\\repositories\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.application\\currencies\\commands\\create\\createcurrencyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BB393-6581-512F-6A9B-3E41A47DAC3B}|SolTestBackend.Application\\SolTestBackend.Application.csproj|solutionrelative:soltestbackend.application\\currencies\\commands\\create\\createcurrencyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B971B0-268F-5A32-79B9-64CDE95797BD}|SolTestBackend.Core\\SolTestBackend.Core.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.core\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B971B0-268F-5A32-79B9-64CDE95797BD}|SolTestBackend.Core\\SolTestBackend.Core.csproj|solutionrelative:soltestbackend.core\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|c:\\users\\75890424\\documents\\trabajo\\pruebas tecnicas\\bs-tt\\soltestbackend\\soltestbackend.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0043964-48E0-BC6E-C8CC-0F71D30DFE9A}|SolTestBackend.Api\\SolTestBackend.Api.csproj|solutionrelative:soltestbackend.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\appsettings.Development.json",
+              "RelativeToolTip": "SolTestBackend.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T17:12:07.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\appsettings.json",
+              "RelativeToolTip": "SolTestBackend.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T17:12:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetByIdProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Queries\\GetById\\GetByIdProductQuery.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Queries\\GetById\\GetByIdProductQuery.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Queries\\GetById\\GetByIdProductQuery.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Queries\\GetById\\GetByIdProductQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:59:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetByIdProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Products\\GetById\\GetByIdProductHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Infrastructure\\Queries\\Products\\GetById\\GetByIdProductHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Products\\GetById\\GetByIdProductHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Infrastructure\\Queries\\Products\\GetById\\GetByIdProductHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:58:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdatePriceContract.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\UpdatePriceContract.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Contracts\\V1\\Product\\UpdatePriceContract.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\UpdatePriceContract.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Contracts\\V1\\Product\\UpdatePriceContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:46:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SolTestBackend.Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:36:24.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePriceProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:24:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdatePriceProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductCommand.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductCommand.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductCommand.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Commands\\UpdatePrice\\UpdatePriceProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:24:05.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Shared\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Shared\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Shared\\ValidationBehavior.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Shared\\ValidationBehavior.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:22:53.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllCurrenciesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Currencies\\GetAllCurrenciesHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Infrastructure\\Queries\\Currencies\\GetAllCurrenciesHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Currencies\\GetAllCurrenciesHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Infrastructure\\Queries\\Currencies\\GetAllCurrenciesHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:11:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetByFilterProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Products\\GetByFilters\\GetByFilterProductsHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Infrastructure\\Queries\\Products\\GetByFilters\\GetByFilterProductsHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Queries\\Products\\GetByFilters\\GetByFilterProductsHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Infrastructure\\Queries\\Products\\GetByFilters\\GetByFilterProductsHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:10:49.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCurrenciesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Queries\\GetAll\\GetAllCurrenciesQuery.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Currencies\\Queries\\GetAll\\GetAllCurrenciesQuery.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Queries\\GetAll\\GetAllCurrenciesQuery.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Currencies\\Queries\\GetAll\\GetAllCurrenciesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:08:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetByFilterProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Queries\\GetByFilter\\GetByFilterProductsQuery.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Queries\\GetByFilter\\GetByFilterProductsQuery.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Queries\\GetByFilter\\GetByFilterProductsQuery.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Queries\\GetByFilter\\GetByFilterProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:07:20.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetByFillterContract.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\GetByFillterContract.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Contracts\\V1\\Product\\GetByFillterContract.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\GetByFillterContract.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Contracts\\V1\\Product\\GetByFillterContract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:54:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCurrencyContract.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Currency\\CreateCurrencyContract.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Contracts\\V1\\Currency\\CreateCurrencyContract.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Currency\\CreateCurrencyContract.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Contracts\\V1\\Currency\\CreateCurrencyContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:49:07.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductContract.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\CreateProductContract.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Contracts\\V1\\Product\\CreateProductContract.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Contracts\\V1\\Product\\CreateProductContract.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Contracts\\V1\\Product\\CreateProductContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:49:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Controllers\\V1\\ProductController.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Controllers\\V1\\ProductController.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Controllers\\V1\\ProductController.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Controllers\\V1\\ProductController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:47:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PriceVO.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\ValueObjects\\PriceVO.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Products\\ValueObjects\\PriceVO.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\ValueObjects\\PriceVO.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Products\\ValueObjects\\PriceVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:41:01.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductError.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\Errors\\ProductError.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Products\\Errors\\ProductError.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\Errors\\ProductError.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Products\\Errors\\ProductError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:39:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:31:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateCurrencyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyCommand.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyCommand.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyCommand.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:29:35.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:29:27.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductCommand.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Products\\Commands\\Create\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:29:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CurrencyError.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Currencies\\Errors\\CurrencyError.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Currencies\\Errors\\CurrencyError.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Currencies\\Errors\\CurrencyError.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Currencies\\Errors\\CurrencyError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:20:41.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Infrastructure\\Persistence\\Repositories\\CurrencyRepository.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Infrastructure\\Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeToolTip": "SolTestBackend.Infrastructure\\Persistence\\Repositories\\CurrencyRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:19:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Products\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Products\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Products\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:17:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Users\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Users\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Users\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Users\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:17:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Currencies\\Repositories\\ICurrencyRepository.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Domain\\Currencies\\Repositories\\ICurrencyRepository.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Domain\\Currencies\\Repositories\\ICurrencyRepository.cs",
+              "RelativeToolTip": "SolTestBackend.Domain\\Currencies\\Repositories\\ICurrencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:16:59.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCurrencyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyHandler.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyHandler.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyHandler.cs",
+              "RelativeToolTip": "SolTestBackend.Application\\Currencies\\Commands\\Create\\CreateCurrencyHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:16:56.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Core\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Core\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Core\\Results\\Result.cs",
+              "RelativeToolTip": "SolTestBackend.Core\\Results\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:35:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "SolTestBackend.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Trabajo\\Pruebas tecnicas\\bs-tt\\SolTestBackend\\SolTestBackend.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "SolTestBackend.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:32:30.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

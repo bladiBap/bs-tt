@@ -1,0 +1,31 @@
+INSERT INTO public.currencies (id, symbol, created_at, updated_at)
+VALUES ('c4a384c8-12dc-41a4-8239-fd925a8e4753', 'usd', NOW(), NOW());
+
+INSERT INTO public.currencies (id, symbol, created_at, updated_at)
+VALUES ('a96a6d58-9995-4465-9858-785625d4ab6c', 'bob', NOW(), NOW());
+
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('7980757a-6419-498c-843b-748950f6815c', 'PROD-001', 'Smartphone Alpha', 599.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 50, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('926b0a1d-72e5-4743-bc97-86532440938b', 'PROD-002', 'Laptop Pro 14', 1200.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 20, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('563a620b-298a-4c28-9844-36798031d68a', 'PROD-003', 'Wireless Mouse', 25.50, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 150, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('8471e3d6-953e-4f7a-8f6a-4c559821743d', 'PROD-004', 'Mechanical Keyboard', 85.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 45, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('2d9f103b-c35a-4e2b-919a-bc725139046c', 'PROD-005', 'Monitor 4K 27"', 350.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 30, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('1f8a72c1-394e-4b6d-a12f-98c43021b5ea', 'PROD-006', 'USB-C Hub', 45.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 100, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('a3e5910c-bc42-4f1e-923d-7140b938ec4f', 'PROD-007', 'External SSD 1TB', 110.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 60, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('e92b104d-67a3-4c92-bd1f-82390145fc3e', 'PROD-008', 'Webcam HD', 65.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 80, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('bc72810a-3d2f-4e9a-91bc-45091238efca', 'PROD-009', 'Gaming Headset', 75.50, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 40, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('f32091bc-410a-493d-bc82-9103bc4e12fa', 'PROD-010', 'Power Bank 20Ah', 39.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 120, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('d91203bc-e41a-492c-bc32-10493bc821fa', 'PROD-011', 'Smartwatch Series G', 199.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 55, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('c829103b-f10a-492b-8231-bc04921fbc32', 'PROD-012', 'Bluetooth Speaker', 55.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 90, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('b10293bc-a491-4e32-901c-bc3821049fba', 'PROD-013', 'Tablet Air 10', 450.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 25, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('a9201bc3-491a-42bc-9012-bc3049182fbc', 'PROD-014', 'Desk Lamp LED', 29.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 200, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('90123bc8-410a-49bc-8231-0492bc381fba', 'PROD-015', 'Ergonomic Chair', 250.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 15, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('821039bc-410a-49bc-9012-bc381049fbc2', 'PROD-016', 'Laptop Stand', 35.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 75, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('710293bc-491a-42bc-810a-bc3810492fba', 'PROD-017', 'Cable HDMI 2.1', 15.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 300, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('610293bc-810a-492b-bc32-10493bc81fba', 'PROD-018', 'Graphics Tablet', 180.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 22, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('510293bc-410a-4bc8-9102-bc3810492fba', 'PROD-019', 'Noise Cancelling Headphones', 299.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 35, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('410293bc-810a-492b-8210-bc3849102fba', 'PROD-020', 'Microphone Condenser', 120.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 28, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('310293bc-410a-492c-8102-bc3810492fba', 'PROD-021', 'Backpack 15.6"', 49.99, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 110, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('210293bc-810a-4bc8-9102-bc3810492fba', 'PROD-022', 'Router Wi-Fi 6', 150.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 40, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('110293bc-410a-492b-8102-bc3810492fba', 'PROD-023', 'Smart Plug', 19.50, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 180, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('010293bc-810a-4bc8-9102-bc3810492fba', 'PROD-024', 'E-reader Paper', 130.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 50, NOW(), NOW());
+INSERT INTO public.products (id, sku, "name", price, currency_id, stock, created_at, updated_at) VALUES ('f90123bc-410a-492b-8102-bc3810492fba', 'PROD-025', 'Gaming Mouse Pad', 20.00, 'c5a384c8-12dc-41a4-8239-fd925a8e4753', 250, NOW(), NOW());

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SolTestBackend.Api/SolTestBackend.Api.csproj" />
+  <Project Path="SolTestBackend.Application/SolTestBackend.Application.csproj" />
+  <Project Path="SolTestBackend.Core/SolTestBackend.Core.csproj" />
+  <Project Path="SolTestBackend.Domain/SolTestBackend.Domain.csproj" />
+  <Project Path="SolTestBackend.Infrastructure/SolTestBackend.Infrastructure.csproj" />
+</Solution>

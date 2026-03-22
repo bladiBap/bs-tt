@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SolTestBackend.Domain/1.0.0": {
+        "dependencies": {
+          "SolTestBackend.Core": "1.0.0"
+        },
+        "runtime": {
+          "SolTestBackend.Domain.dll": {}
+        }
+      },
+      "SolTestBackend.Core/1.0.0": {
+        "runtime": {
+          "SolTestBackend.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolTestBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolTestBackend.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
