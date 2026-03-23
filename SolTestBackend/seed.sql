@@ -1,5 +1,5 @@
 INSERT INTO public.currencies (id, symbol, created_at, updated_at)
-VALUES ('c4a384c8-12dc-41a4-8239-fd925a8e4753', 'usd', NOW(), NOW());
+VALUES ('c5a384c8-12dc-41a4-8239-fd925a8e4753', 'usd', NOW(), NOW());
 
 INSERT INTO public.currencies (id, symbol, created_at, updated_at)
 VALUES ('a96a6d58-9995-4465-9858-785625d4ab6c', 'bob', NOW(), NOW());
